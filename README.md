@@ -23,3 +23,7 @@ Flip the second assembly upside down and place it inside the previously assemble
 Slide the bottom casing into the rest of the assembly diagonally, matching the notches on both casing halves.
 
 <img src="https://i.imgur.com/ppSShUt.png" width="512" />
+
+Flip the entire assembly upright. Insert the nut into the hexagonal hole in the bottom case, the bolt into the circular hole in the top case, and screw the bolt in.
+
+<img src="https://i.imgur.com/Q7b7Ivp.png" width="512" />
